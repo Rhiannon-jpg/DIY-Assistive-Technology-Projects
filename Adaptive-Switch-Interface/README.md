@@ -6,7 +6,7 @@ allowing it to function as a Human Interface Device (HID) for computers, tablets
 This folder contains all CAD files, code, and documentation needed to build the device.
 
 ## Build Instructions
-Step-by-step assembly instructions are available on [Instructables]([link](https://www.instructables.com/DIY-Adaptive-Switch-Interface/))
+Step-by-step assembly instructions are available on [Instructables](https://www.instructables.com/DIY-Adaptive-Switch-Interface/)
 
 ## Acknowledgements
 This was my first time designing a CAD model and creating an electronic device. I received valuable guidance from peers, particularly in selecting the electronic boards needed for the project. Specific contributions have been documented in the subfolders.
