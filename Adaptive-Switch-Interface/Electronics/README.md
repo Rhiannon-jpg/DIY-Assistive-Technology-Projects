@@ -5,3 +5,5 @@ A complete parts list for the project is available on Instructables.
 
 ## Acknowledgements
 I recieved assistance from Rahul Myana in selecting the electronic boards used in this project. This ensured the device would function correctly.
+
+I also want to acknowledge Patrick Benfield and Tuan Le for teaching me how to solder and soldering a few of the pins to the Perma-protoboard.
